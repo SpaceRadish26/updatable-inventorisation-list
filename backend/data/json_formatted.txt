@@ -1,0 +1,2528 @@
+{
+  "total": 21,
+  "rows": [
+    {
+      "id": 90,
+      "name": "Aluminium kalibratiepatronen (type checkerboard) voor camerakalibratie. 4 stuks.",
+      "asset_tag": "EDM-23-11",
+      "serial": "Legacy",
+      "model": {
+        "id": 23,
+        "name": "Kalibratiepatronen Camera&#039;s"
+      },
+      "byod": false,
+      "requestable": true,
+      "model_number": null,
+      "eol": null,
+      "asset_eol_date": null,
+      "status_label": {
+        "id": 2,
+        "name": "Ready to Deploy",
+        "status_type": "deployable",
+        "status_meta": "deployable"
+      },
+      "category": {
+        "id": 23,
+        "name": "Kalibratiepatronen Camera&#039;s"
+      },
+      "manufacturer": null,
+      "supplier": null,
+      "notes": null,
+      "order_number": null,
+      "company": null,
+      "location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "rtd_location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "image": null,
+      "qr": null,
+      "alt_barcode": "http://192.168.100.212/uploads/barcodes/-edm-23-11.png",
+      "assigned_to": null,
+      "warranty_months": null,
+      "warranty_expires": null,
+      "created_by": null,
+      "created_at": {
+        "datetime": "2025-08-12 14:17:20",
+        "formatted": "2025-08-12 14:17"
+      },
+      "updated_at": {
+        "datetime": "2025-08-14 15:45:02",
+        "formatted": "2025-08-14 15:45"
+      },
+      "last_audit_date": null,
+      "next_audit_date": null,
+      "deleted_at": null,
+      "purchase_date": null,
+      "age": "",
+      "last_checkout": null,
+      "last_checkin": null,
+      "expected_checkin": null,
+      "purchase_cost": null,
+      "checkin_counter": 0,
+      "checkout_counter": 0,
+      "requests_counter": 0,
+      "user_can_checkout": true,
+      "book_value": null,
+      "custom_fields": {
+        "FIN-Invoice number": {
+          "field": "_snipeit_fin_invoice_number_10",
+          "value": "I/202305163",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "Scanned by": {
+          "field": "_snipeit_scanned_by_11",
+          "value": "lode.jorissen@uhasselt.be",
+          "field_format": "EMAIL",
+          "element": "text"
+        },
+        "Scanned on": {
+          "field": "_snipeit_scanned_on_12",
+          "value": "2023-02-09T10:37:08",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "FIN-Cost center": {
+          "field": "_snipeit_fin_cost_center_9",
+          "value": "MAXVRINFRA",
+          "field_format": "ANY",
+          "element": "text"
+        }
+      },
+      "available_actions": {
+        "checkout": true,
+        "checkin": true,
+        "clone": true,
+        "restore": false,
+        "update": true,
+        "audit": true,
+        "delete": true
+      }
+    },
+    {
+      "id": 92,
+      "name": "Looking Glass Portrait Light Field scherm",
+      "asset_tag": "EDM-23-12",
+      "serial": "Legacy",
+      "model": {
+        "id": 24,
+        "name": "Light-Field Scherm"
+      },
+      "byod": false,
+      "requestable": true,
+      "model_number": null,
+      "eol": null,
+      "asset_eol_date": null,
+      "status_label": {
+        "id": 2,
+        "name": "Ready to Deploy",
+        "status_type": "deployable",
+        "status_meta": "deployable"
+      },
+      "category": {
+        "id": 24,
+        "name": "Light-Field Scherm"
+      },
+      "manufacturer": null,
+      "supplier": null,
+      "notes": null,
+      "order_number": null,
+      "company": null,
+      "location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "rtd_location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "image": null,
+      "qr": null,
+      "alt_barcode": "http://192.168.100.212/uploads/barcodes/-edm-23-12.png",
+      "assigned_to": null,
+      "warranty_months": null,
+      "warranty_expires": null,
+      "created_by": null,
+      "created_at": {
+        "datetime": "2025-08-12 14:17:20",
+        "formatted": "2025-08-12 14:17"
+      },
+      "updated_at": {
+        "datetime": "2025-08-14 15:45:02",
+        "formatted": "2025-08-14 15:45"
+      },
+      "last_audit_date": null,
+      "next_audit_date": null,
+      "deleted_at": null,
+      "purchase_date": null,
+      "age": "",
+      "last_checkout": null,
+      "last_checkin": null,
+      "expected_checkin": null,
+      "purchase_cost": null,
+      "checkin_counter": 0,
+      "checkout_counter": 0,
+      "requests_counter": 0,
+      "user_can_checkout": true,
+      "book_value": null,
+      "custom_fields": {
+        "FIN-Invoice number": {
+          "field": "_snipeit_fin_invoice_number_10",
+          "value": "I/202301501",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "Scanned by": {
+          "field": "_snipeit_scanned_by_11",
+          "value": "lode.jorissen@uhasselt.be",
+          "field_format": "EMAIL",
+          "element": "text"
+        },
+        "Scanned on": {
+          "field": "_snipeit_scanned_on_12",
+          "value": "2023-02-15T10:32:15",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "FIN-Cost center": {
+          "field": "_snipeit_fin_cost_center_9",
+          "value": "MAXVRINFRA",
+          "field_format": "ANY",
+          "element": "text"
+        }
+      },
+      "available_actions": {
+        "checkout": true,
+        "checkin": true,
+        "clone": true,
+        "restore": false,
+        "update": true,
+        "audit": true,
+        "delete": true
+      }
+    },
+    {
+      "id": 140,
+      "name": "Varjo XR3",
+      "asset_tag": "EDM-23-53",
+      "serial": "X0022F309A00194444",
+      "model": {
+        "id": 71,
+        "name": "Varjo XR3"
+      },
+      "byod": false,
+      "requestable": true,
+      "model_number": null,
+      "eol": null,
+      "asset_eol_date": null,
+      "status_label": {
+        "id": 2,
+        "name": "Ready to Deploy",
+        "status_type": "deployable",
+        "status_meta": "deployed"
+      },
+      "category": {
+        "id": 5,
+        "name": "VR"
+      },
+      "manufacturer": null,
+      "supplier": null,
+      "notes": null,
+      "order_number": null,
+      "company": null,
+      "location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "rtd_location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "image": null,
+      "qr": null,
+      "alt_barcode": "http://192.168.100.212/uploads/barcodes/-edm-23-53.png",
+      "assigned_to": {
+        "id": 151,
+        "username": "grovelo",
+        "name": "Gustavo Rovelo",
+        "first_name": "Gustavo",
+        "last_name": "Rovelo",
+        "email": "gustavo.roveloruiz@uhasselt.be",
+        "employee_number": null,
+        "jobtitle": null,
+        "type": "user"
+      },
+      "warranty_months": null,
+      "warranty_expires": null,
+      "created_by": null,
+      "created_at": {
+        "datetime": "2025-08-12 14:17:20",
+        "formatted": "2025-08-12 14:17"
+      },
+      "updated_at": {
+        "datetime": "2025-08-20 17:22:28",
+        "formatted": "2025-08-20 17:22"
+      },
+      "last_audit_date": null,
+      "next_audit_date": null,
+      "deleted_at": null,
+      "purchase_date": null,
+      "age": "",
+      "last_checkout": {
+        "datetime": "2025-08-14 09:31:02",
+        "formatted": "2025-08-14 09:31"
+      },
+      "last_checkin": null,
+      "expected_checkin": null,
+      "purchase_cost": null,
+      "checkin_counter": 0,
+      "checkout_counter": 8,
+      "requests_counter": 0,
+      "user_can_checkout": false,
+      "book_value": null,
+      "custom_fields": {
+        "VR": {
+          "field": "_snipeit_vr_2",
+          "value": "Yes",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "Scanned by": {
+          "field": "_snipeit_scanned_by_11",
+          "value": "gustavo.roveloruiz@uhasselt.be",
+          "field_format": "EMAIL",
+          "element": "text"
+        },
+        "FIN-Invoice number": {
+          "field": "_snipeit_fin_invoice_number_10",
+          "value": "I/202331045",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "FIN-Cost center": {
+          "field": "_snipeit_fin_cost_center_9",
+          "value": "MAXVRINFRA",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "Specs": {
+          "field": "_snipeit_specs_8",
+          "value": "https://vr-compare.com/headset/varjoxr-3",
+          "field_format": "URL",
+          "element": "text"
+        },
+        "Tracking": {
+          "field": "_snipeit_tracking_7",
+          "value": "SteamVR Lighthouse",
+          "field_format": "ANY",
+          "element": "listbox"
+        },
+        "Tethered": {
+          "field": "_snipeit_tethered_6",
+          "value": "Yes",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "Stand-alone": {
+          "field": "_snipeit_stand_alone_5",
+          "value": "No",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "Passthrough AR": {
+          "field": "_snipeit_passthrough_ar_4",
+          "value": "Yes",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "AR": {
+          "field": "_snipeit_ar_3",
+          "value": "No",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "Scanned on": {
+          "field": "_snipeit_scanned_on_12",
+          "value": "2023-08-22T11:13:35",
+          "field_format": "ANY",
+          "element": "text"
+        }
+      },
+      "available_actions": {
+        "checkout": true,
+        "checkin": true,
+        "clone": true,
+        "restore": false,
+        "update": true,
+        "audit": true,
+        "delete": false
+      }
+    },
+    {
+      "id": 141,
+      "name": "Varjo XR3",
+      "asset_tag": "EDM-23-54",
+      "serial": "X0022F309A00194440",
+      "model": {
+        "id": 71,
+        "name": "Varjo XR3"
+      },
+      "byod": false,
+      "requestable": true,
+      "model_number": null,
+      "eol": null,
+      "asset_eol_date": null,
+      "status_label": {
+        "id": 2,
+        "name": "Ready to Deploy",
+        "status_type": "deployable",
+        "status_meta": "deployed"
+      },
+      "category": {
+        "id": 5,
+        "name": "VR"
+      },
+      "manufacturer": null,
+      "supplier": null,
+      "notes": null,
+      "order_number": null,
+      "company": null,
+      "location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "rtd_location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "image": null,
+      "qr": null,
+      "alt_barcode": "http://192.168.100.212/uploads/barcodes/-edm-23-54.png",
+      "assigned_to": {
+        "id": 151,
+        "username": "grovelo",
+        "name": "Gustavo Rovelo",
+        "first_name": "Gustavo",
+        "last_name": "Rovelo",
+        "email": "gustavo.roveloruiz@uhasselt.be",
+        "employee_number": null,
+        "jobtitle": null,
+        "type": "user"
+      },
+      "warranty_months": null,
+      "warranty_expires": null,
+      "created_by": null,
+      "created_at": {
+        "datetime": "2025-08-12 14:17:20",
+        "formatted": "2025-08-12 14:17"
+      },
+      "updated_at": {
+        "datetime": "2025-08-20 17:22:28",
+        "formatted": "2025-08-20 17:22"
+      },
+      "last_audit_date": null,
+      "next_audit_date": null,
+      "deleted_at": null,
+      "purchase_date": null,
+      "age": "",
+      "last_checkout": {
+        "datetime": "2025-08-14 09:31:02",
+        "formatted": "2025-08-14 09:31"
+      },
+      "last_checkin": null,
+      "expected_checkin": null,
+      "purchase_cost": null,
+      "checkin_counter": 0,
+      "checkout_counter": 8,
+      "requests_counter": 0,
+      "user_can_checkout": false,
+      "book_value": null,
+      "custom_fields": {
+        "VR": {
+          "field": "_snipeit_vr_2",
+          "value": "Yes",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "Scanned by": {
+          "field": "_snipeit_scanned_by_11",
+          "value": "gustavo.roveloruiz@uhasselt.be",
+          "field_format": "EMAIL",
+          "element": "text"
+        },
+        "FIN-Invoice number": {
+          "field": "_snipeit_fin_invoice_number_10",
+          "value": "I/202331045",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "FIN-Cost center": {
+          "field": "_snipeit_fin_cost_center_9",
+          "value": "MAXVRINFRA",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "Specs": {
+          "field": "_snipeit_specs_8",
+          "value": "https://vr-compare.com/headset/varjoxr-3",
+          "field_format": "URL",
+          "element": "text"
+        },
+        "Tracking": {
+          "field": "_snipeit_tracking_7",
+          "value": "SteamVR Lighthouse",
+          "field_format": "ANY",
+          "element": "listbox"
+        },
+        "Tethered": {
+          "field": "_snipeit_tethered_6",
+          "value": "Yes",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "Stand-alone": {
+          "field": "_snipeit_stand_alone_5",
+          "value": "No",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "Passthrough AR": {
+          "field": "_snipeit_passthrough_ar_4",
+          "value": "Yes",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "AR": {
+          "field": "_snipeit_ar_3",
+          "value": "No",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "Scanned on": {
+          "field": "_snipeit_scanned_on_12",
+          "value": "2023-08-22T11:20:38",
+          "field_format": "ANY",
+          "element": "text"
+        }
+      },
+      "available_actions": {
+        "checkout": true,
+        "checkin": true,
+        "clone": true,
+        "restore": false,
+        "update": true,
+        "audit": true,
+        "delete": false
+      }
+    },
+    {
+      "id": 142,
+      "name": "Varjo XR3",
+      "asset_tag": "EDM-23-55",
+      "serial": "X0022F309A00194448",
+      "model": {
+        "id": 71,
+        "name": "Varjo XR3"
+      },
+      "byod": false,
+      "requestable": true,
+      "model_number": null,
+      "eol": null,
+      "asset_eol_date": null,
+      "status_label": {
+        "id": 2,
+        "name": "Ready to Deploy",
+        "status_type": "deployable",
+        "status_meta": "deployed"
+      },
+      "category": {
+        "id": 5,
+        "name": "VR"
+      },
+      "manufacturer": null,
+      "supplier": null,
+      "notes": null,
+      "order_number": null,
+      "company": null,
+      "location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "rtd_location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "image": null,
+      "qr": null,
+      "alt_barcode": "http://192.168.100.212/uploads/barcodes/-edm-23-55.png",
+      "assigned_to": {
+        "id": 151,
+        "username": "grovelo",
+        "name": "Gustavo Rovelo",
+        "first_name": "Gustavo",
+        "last_name": "Rovelo",
+        "email": "gustavo.roveloruiz@uhasselt.be",
+        "employee_number": null,
+        "jobtitle": null,
+        "type": "user"
+      },
+      "warranty_months": null,
+      "warranty_expires": null,
+      "created_by": null,
+      "created_at": {
+        "datetime": "2025-08-12 14:17:20",
+        "formatted": "2025-08-12 14:17"
+      },
+      "updated_at": {
+        "datetime": "2025-08-20 17:22:28",
+        "formatted": "2025-08-20 17:22"
+      },
+      "last_audit_date": null,
+      "next_audit_date": null,
+      "deleted_at": null,
+      "purchase_date": null,
+      "age": "",
+      "last_checkout": {
+        "datetime": "2025-08-14 09:31:02",
+        "formatted": "2025-08-14 09:31"
+      },
+      "last_checkin": null,
+      "expected_checkin": null,
+      "purchase_cost": null,
+      "checkin_counter": 0,
+      "checkout_counter": 8,
+      "requests_counter": 0,
+      "user_can_checkout": false,
+      "book_value": null,
+      "custom_fields": {
+        "VR": {
+          "field": "_snipeit_vr_2",
+          "value": "Yes",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "Scanned by": {
+          "field": "_snipeit_scanned_by_11",
+          "value": "gustavo.roveloruiz@uhasselt.be",
+          "field_format": "EMAIL",
+          "element": "text"
+        },
+        "FIN-Invoice number": {
+          "field": "_snipeit_fin_invoice_number_10",
+          "value": "I/202331045",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "FIN-Cost center": {
+          "field": "_snipeit_fin_cost_center_9",
+          "value": "MAXVRINFRA",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "Specs": {
+          "field": "_snipeit_specs_8",
+          "value": "https://vr-compare.com/headset/varjoxr-3",
+          "field_format": "URL",
+          "element": "text"
+        },
+        "Tracking": {
+          "field": "_snipeit_tracking_7",
+          "value": "SteamVR Lighthouse",
+          "field_format": "ANY",
+          "element": "listbox"
+        },
+        "Tethered": {
+          "field": "_snipeit_tethered_6",
+          "value": "Yes",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "Stand-alone": {
+          "field": "_snipeit_stand_alone_5",
+          "value": "No",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "Passthrough AR": {
+          "field": "_snipeit_passthrough_ar_4",
+          "value": "Yes",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "AR": {
+          "field": "_snipeit_ar_3",
+          "value": "No",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "Scanned on": {
+          "field": "_snipeit_scanned_on_12",
+          "value": "2023-08-22T11:22:47",
+          "field_format": "ANY",
+          "element": "text"
+        }
+      },
+      "available_actions": {
+        "checkout": true,
+        "checkin": true,
+        "clone": true,
+        "restore": false,
+        "update": true,
+        "audit": true,
+        "delete": false
+      }
+    },
+    {
+      "id": 6,
+      "name": "Robotis Turtebot3 Waffle Pi RPi4 4GB",
+      "asset_tag": "EDM-22-1",
+      "serial": "Legacy",
+      "model": {
+        "id": 6,
+        "name": "Robot"
+      },
+      "byod": false,
+      "requestable": true,
+      "model_number": null,
+      "eol": null,
+      "asset_eol_date": null,
+      "status_label": {
+        "id": 2,
+        "name": "Ready to Deploy",
+        "status_type": "deployable",
+        "status_meta": "deployable"
+      },
+      "category": {
+        "id": 6,
+        "name": "Robot"
+      },
+      "manufacturer": null,
+      "supplier": null,
+      "notes": null,
+      "order_number": null,
+      "company": null,
+      "location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "rtd_location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "image": null,
+      "qr": null,
+      "alt_barcode": "http://192.168.100.212/uploads/barcodes/-edm-22-1.png",
+      "assigned_to": null,
+      "warranty_months": null,
+      "warranty_expires": null,
+      "created_by": null,
+      "created_at": {
+        "datetime": "2025-08-12 14:17:19",
+        "formatted": "2025-08-12 14:17"
+      },
+      "updated_at": {
+        "datetime": "2025-08-20 17:01:38",
+        "formatted": "2025-08-20 17:01"
+      },
+      "last_audit_date": null,
+      "next_audit_date": null,
+      "deleted_at": null,
+      "purchase_date": null,
+      "age": "",
+      "last_checkout": {
+        "datetime": "2025-08-20 16:18:34",
+        "formatted": "2025-08-20 16:18"
+      },
+      "last_checkin": {
+        "datetime": "2025-08-20 17:01:38",
+        "formatted": "2025-08-20 17:01"
+      },
+      "expected_checkin": null,
+      "purchase_cost": null,
+      "checkin_counter": 1,
+      "checkout_counter": 1,
+      "requests_counter": 0,
+      "user_can_checkout": true,
+      "book_value": null,
+      "custom_fields": {
+        "FIN-Invoice number": {
+          "field": "_snipeit_fin_invoice_number_10",
+          "value": "I/202200052",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "Scanned by": {
+          "field": "_snipeit_scanned_by_11",
+          "value": "bram.vandeurzen@uhasselt.be",
+          "field_format": "EMAIL",
+          "element": "text"
+        },
+        "Scanned on": {
+          "field": "_snipeit_scanned_on_12",
+          "value": "2023-03-29T13:24:43",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "FIN-Cost center": {
+          "field": "_snipeit_fin_cost_center_9",
+          "value": "MAXVRINFRA",
+          "field_format": "ANY",
+          "element": "text"
+        }
+      },
+      "available_actions": {
+        "checkout": true,
+        "checkin": true,
+        "clone": true,
+        "restore": false,
+        "update": true,
+        "audit": true,
+        "delete": true
+      }
+    },
+    {
+      "id": 7,
+      "name": "RICOH THETA Z1 - 51 GB",
+      "asset_tag": "EDM-22-2",
+      "serial": "YN102193",
+      "model": {
+        "id": 7,
+        "name": "360 Camera"
+      },
+      "byod": false,
+      "requestable": true,
+      "model_number": null,
+      "eol": null,
+      "asset_eol_date": null,
+      "status_label": {
+        "id": 2,
+        "name": "Ready to Deploy",
+        "status_type": "deployable",
+        "status_meta": "deployable"
+      },
+      "category": {
+        "id": 7,
+        "name": "360 Camera"
+      },
+      "manufacturer": null,
+      "supplier": null,
+      "notes": null,
+      "order_number": null,
+      "company": null,
+      "location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "rtd_location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "image": null,
+      "qr": null,
+      "alt_barcode": "http://192.168.100.212/uploads/barcodes/-edm-22-2.png",
+      "assigned_to": null,
+      "warranty_months": null,
+      "warranty_expires": null,
+      "created_by": null,
+      "created_at": {
+        "datetime": "2025-08-12 14:17:19",
+        "formatted": "2025-08-12 14:17"
+      },
+      "updated_at": {
+        "datetime": "2025-08-14 15:45:02",
+        "formatted": "2025-08-14 15:45"
+      },
+      "last_audit_date": null,
+      "next_audit_date": null,
+      "deleted_at": null,
+      "purchase_date": null,
+      "age": "",
+      "last_checkout": null,
+      "last_checkin": null,
+      "expected_checkin": null,
+      "purchase_cost": null,
+      "checkin_counter": 0,
+      "checkout_counter": 0,
+      "requests_counter": 0,
+      "user_can_checkout": true,
+      "book_value": null,
+      "custom_fields": {
+        "FIN-Invoice number": {
+          "field": "_snipeit_fin_invoice_number_10",
+          "value": "I/202200833",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "Scanned by": {
+          "field": "_snipeit_scanned_by_11",
+          "value": "bram.vandeurzen@uhasselt.be",
+          "field_format": "EMAIL",
+          "element": "text"
+        },
+        "Scanned on": {
+          "field": "_snipeit_scanned_on_12",
+          "value": "2023-03-29T13:42:43",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "FIN-Cost center": {
+          "field": "_snipeit_fin_cost_center_9",
+          "value": "MAXVRINFRA",
+          "field_format": "ANY",
+          "element": "text"
+        }
+      },
+      "available_actions": {
+        "checkout": true,
+        "checkin": true,
+        "clone": true,
+        "restore": false,
+        "update": true,
+        "audit": true,
+        "delete": true
+      }
+    },
+    {
+      "id": 8,
+      "name": "RICOH THETA Z1 - 51 GB",
+      "asset_tag": "EDM-22-3",
+      "serial": "YN102453",
+      "model": {
+        "id": 7,
+        "name": "360 Camera"
+      },
+      "byod": false,
+      "requestable": true,
+      "model_number": null,
+      "eol": null,
+      "asset_eol_date": null,
+      "status_label": {
+        "id": 2,
+        "name": "Ready to Deploy",
+        "status_type": "deployable",
+        "status_meta": "deployable"
+      },
+      "category": {
+        "id": 7,
+        "name": "360 Camera"
+      },
+      "manufacturer": null,
+      "supplier": null,
+      "notes": null,
+      "order_number": null,
+      "company": null,
+      "location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "rtd_location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "image": null,
+      "qr": null,
+      "alt_barcode": "http://192.168.100.212/uploads/barcodes/-edm-22-3.png",
+      "assigned_to": null,
+      "warranty_months": null,
+      "warranty_expires": null,
+      "created_by": null,
+      "created_at": {
+        "datetime": "2025-08-12 14:17:19",
+        "formatted": "2025-08-12 14:17"
+      },
+      "updated_at": {
+        "datetime": "2025-08-14 15:45:02",
+        "formatted": "2025-08-14 15:45"
+      },
+      "last_audit_date": null,
+      "next_audit_date": null,
+      "deleted_at": null,
+      "purchase_date": null,
+      "age": "",
+      "last_checkout": null,
+      "last_checkin": null,
+      "expected_checkin": null,
+      "purchase_cost": null,
+      "checkin_counter": 0,
+      "checkout_counter": 0,
+      "requests_counter": 0,
+      "user_can_checkout": true,
+      "book_value": null,
+      "custom_fields": {
+        "FIN-Invoice number": {
+          "field": "_snipeit_fin_invoice_number_10",
+          "value": "I/202200833",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "Scanned by": {
+          "field": "_snipeit_scanned_by_11",
+          "value": "bram.vandeurzen@uhasselt.be",
+          "field_format": "EMAIL",
+          "element": "text"
+        },
+        "Scanned on": {
+          "field": "_snipeit_scanned_on_12",
+          "value": "2023-03-29T13:45:04",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "FIN-Cost center": {
+          "field": "_snipeit_fin_cost_center_9",
+          "value": "MAXVRINFRA",
+          "field_format": "ANY",
+          "element": "text"
+        }
+      },
+      "available_actions": {
+        "checkout": true,
+        "checkin": true,
+        "clone": true,
+        "restore": false,
+        "update": true,
+        "audit": true,
+        "delete": true
+      }
+    },
+    {
+      "id": 12,
+      "name": "STRATOS Inspire Haptic Module (USI) Ultraleap",
+      "asset_tag": "EDM-22-7",
+      "serial": "Legacy",
+      "model": {
+        "id": 8,
+        "name": "Haptic Device"
+      },
+      "byod": false,
+      "requestable": true,
+      "model_number": null,
+      "eol": null,
+      "asset_eol_date": null,
+      "status_label": {
+        "id": 2,
+        "name": "Ready to Deploy",
+        "status_type": "deployable",
+        "status_meta": "deployable"
+      },
+      "category": {
+        "id": 8,
+        "name": "Haptic Device"
+      },
+      "manufacturer": null,
+      "supplier": null,
+      "notes": null,
+      "order_number": null,
+      "company": null,
+      "location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "rtd_location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "image": null,
+      "qr": null,
+      "alt_barcode": "http://192.168.100.212/uploads/barcodes/-edm-22-7.png",
+      "assigned_to": null,
+      "warranty_months": null,
+      "warranty_expires": null,
+      "created_by": null,
+      "created_at": {
+        "datetime": "2025-08-12 14:17:19",
+        "formatted": "2025-08-12 14:17"
+      },
+      "updated_at": {
+        "datetime": "2025-08-14 15:45:02",
+        "formatted": "2025-08-14 15:45"
+      },
+      "last_audit_date": null,
+      "next_audit_date": null,
+      "deleted_at": null,
+      "purchase_date": null,
+      "age": "",
+      "last_checkout": null,
+      "last_checkin": null,
+      "expected_checkin": null,
+      "purchase_cost": null,
+      "checkin_counter": 0,
+      "checkout_counter": 0,
+      "requests_counter": 0,
+      "user_can_checkout": true,
+      "book_value": null,
+      "custom_fields": {
+        "FIN-Invoice number": {
+          "field": "_snipeit_fin_invoice_number_10",
+          "value": "I/202221005",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "Scanned by": {
+          "field": "_snipeit_scanned_by_11",
+          "value": "bram.vandeurzen@uhasselt.be",
+          "field_format": "EMAIL",
+          "element": "text"
+        },
+        "Scanned on": {
+          "field": "_snipeit_scanned_on_12",
+          "value": "2023-03-29T13:53:49",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "FIN-Cost center": {
+          "field": "_snipeit_fin_cost_center_9",
+          "value": "MAXVRINFRA",
+          "field_format": "ANY",
+          "element": "text"
+        }
+      },
+      "available_actions": {
+        "checkout": true,
+        "checkin": true,
+        "clone": true,
+        "restore": false,
+        "update": true,
+        "audit": true,
+        "delete": true
+      }
+    },
+    {
+      "id": 13,
+      "name": "HTC Vive Pro 2 Full Kit",
+      "asset_tag": "EDM-22-8",
+      "serial": "Legacy",
+      "model": {
+        "id": 5,
+        "name": "VR"
+      },
+      "byod": false,
+      "requestable": true,
+      "model_number": null,
+      "eol": null,
+      "asset_eol_date": null,
+      "status_label": {
+        "id": 2,
+        "name": "Ready to Deploy",
+        "status_type": "deployable",
+        "status_meta": "deployable"
+      },
+      "category": {
+        "id": 5,
+        "name": "VR"
+      },
+      "manufacturer": null,
+      "supplier": null,
+      "notes": null,
+      "order_number": null,
+      "company": null,
+      "location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "rtd_location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "image": null,
+      "qr": null,
+      "alt_barcode": "http://192.168.100.212/uploads/barcodes/-edm-22-8.png",
+      "assigned_to": null,
+      "warranty_months": null,
+      "warranty_expires": null,
+      "created_by": null,
+      "created_at": {
+        "datetime": "2025-08-12 14:17:19",
+        "formatted": "2025-08-12 14:17"
+      },
+      "updated_at": {
+        "datetime": "2025-08-14 15:45:02",
+        "formatted": "2025-08-14 15:45"
+      },
+      "last_audit_date": null,
+      "next_audit_date": null,
+      "deleted_at": null,
+      "purchase_date": null,
+      "age": "",
+      "last_checkout": null,
+      "last_checkin": null,
+      "expected_checkin": null,
+      "purchase_cost": null,
+      "checkin_counter": 0,
+      "checkout_counter": 0,
+      "requests_counter": 0,
+      "user_can_checkout": true,
+      "book_value": null,
+      "custom_fields": {
+        "VR": {
+          "field": "_snipeit_vr_2",
+          "value": "",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "Scanned by": {
+          "field": "_snipeit_scanned_by_11",
+          "value": "bram.vandeurzen@uhasselt.be",
+          "field_format": "EMAIL",
+          "element": "text"
+        },
+        "FIN-Invoice number": {
+          "field": "_snipeit_fin_invoice_number_10",
+          "value": "",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "FIN-Cost center": {
+          "field": "_snipeit_fin_cost_center_9",
+          "value": "",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "Specs": {
+          "field": "_snipeit_specs_8",
+          "value": "",
+          "field_format": "URL",
+          "element": "text"
+        },
+        "Tracking": {
+          "field": "_snipeit_tracking_7",
+          "value": "",
+          "field_format": "ANY",
+          "element": "listbox"
+        },
+        "Tethered": {
+          "field": "_snipeit_tethered_6",
+          "value": "",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "Stand-alone": {
+          "field": "_snipeit_stand_alone_5",
+          "value": "",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "Passthrough AR": {
+          "field": "_snipeit_passthrough_ar_4",
+          "value": "",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "AR": {
+          "field": "_snipeit_ar_3",
+          "value": "",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "Scanned on": {
+          "field": "_snipeit_scanned_on_12",
+          "value": "2023-03-29T13:53:00",
+          "field_format": "ANY",
+          "element": "text"
+        }
+      },
+      "available_actions": {
+        "checkout": true,
+        "checkin": true,
+        "clone": true,
+        "restore": false,
+        "update": true,
+        "audit": true,
+        "delete": true
+      }
+    },
+    {
+      "id": 14,
+      "name": "Tobii Pro Glasses 3 Wireless 100 (incl handling cost)",
+      "asset_tag": "EDM-22-9",
+      "serial": "Legacy",
+      "model": {
+        "id": 9,
+        "name": "Eye-Tracking Glasses"
+      },
+      "byod": false,
+      "requestable": true,
+      "model_number": null,
+      "eol": null,
+      "asset_eol_date": null,
+      "status_label": {
+        "id": 2,
+        "name": "Ready to Deploy",
+        "status_type": "deployable",
+        "status_meta": "deployable"
+      },
+      "category": {
+        "id": 9,
+        "name": "Eye-Tracking Glasses"
+      },
+      "manufacturer": null,
+      "supplier": null,
+      "notes": null,
+      "order_number": null,
+      "company": null,
+      "location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "rtd_location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "image": null,
+      "qr": null,
+      "alt_barcode": "http://192.168.100.212/uploads/barcodes/-edm-22-9.png",
+      "assigned_to": null,
+      "warranty_months": null,
+      "warranty_expires": null,
+      "created_by": null,
+      "created_at": {
+        "datetime": "2025-08-12 14:17:19",
+        "formatted": "2025-08-12 14:17"
+      },
+      "updated_at": {
+        "datetime": "2025-08-14 15:45:02",
+        "formatted": "2025-08-14 15:45"
+      },
+      "last_audit_date": null,
+      "next_audit_date": null,
+      "deleted_at": null,
+      "purchase_date": null,
+      "age": "",
+      "last_checkout": null,
+      "last_checkin": null,
+      "expected_checkin": null,
+      "purchase_cost": null,
+      "checkin_counter": 0,
+      "checkout_counter": 0,
+      "requests_counter": 0,
+      "user_can_checkout": true,
+      "book_value": null,
+      "custom_fields": {
+        "FIN-Invoice number": {
+          "field": "_snipeit_fin_invoice_number_10",
+          "value": "I/202205886",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "Scanned by": {
+          "field": "_snipeit_scanned_by_11",
+          "value": "bram.vandeurzen@uhasselt.be",
+          "field_format": "EMAIL",
+          "element": "text"
+        },
+        "Scanned on": {
+          "field": "_snipeit_scanned_on_12",
+          "value": "2023-03-29T13:54:29",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "FIN-Cost center": {
+          "field": "_snipeit_fin_cost_center_9",
+          "value": "MAXVRINFRA",
+          "field_format": "ANY",
+          "element": "text"
+        }
+      },
+      "available_actions": {
+        "checkout": true,
+        "checkin": true,
+        "clone": true,
+        "restore": false,
+        "update": true,
+        "audit": true,
+        "delete": true
+      }
+    },
+    {
+      "id": 15,
+      "name": "Hypersen 3D ToF LiDAR (5m) HPS-3D640-L (LAN Interface)",
+      "asset_tag": "EDM-22-10",
+      "serial": "SL01M2100585",
+      "model": {
+        "id": 10,
+        "name": "LIDAR"
+      },
+      "byod": false,
+      "requestable": true,
+      "model_number": null,
+      "eol": null,
+      "asset_eol_date": null,
+      "status_label": {
+        "id": 2,
+        "name": "Ready to Deploy",
+        "status_type": "deployable",
+        "status_meta": "deployable"
+      },
+      "category": {
+        "id": 10,
+        "name": "LIDAR"
+      },
+      "manufacturer": null,
+      "supplier": null,
+      "notes": null,
+      "order_number": null,
+      "company": null,
+      "location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "rtd_location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "image": null,
+      "qr": null,
+      "alt_barcode": "http://192.168.100.212/uploads/barcodes/-edm-22-10.png",
+      "assigned_to": null,
+      "warranty_months": null,
+      "warranty_expires": null,
+      "created_by": null,
+      "created_at": {
+        "datetime": "2025-08-12 14:17:19",
+        "formatted": "2025-08-12 14:17"
+      },
+      "updated_at": {
+        "datetime": "2025-08-14 15:45:02",
+        "formatted": "2025-08-14 15:45"
+      },
+      "last_audit_date": null,
+      "next_audit_date": null,
+      "deleted_at": null,
+      "purchase_date": null,
+      "age": "",
+      "last_checkout": null,
+      "last_checkin": null,
+      "expected_checkin": null,
+      "purchase_cost": null,
+      "checkin_counter": 0,
+      "checkout_counter": 0,
+      "requests_counter": 0,
+      "user_can_checkout": true,
+      "book_value": null,
+      "custom_fields": {
+        "FIN-Invoice number": {
+          "field": "_snipeit_fin_invoice_number_10",
+          "value": "I/202205995",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "Scanned by": {
+          "field": "_snipeit_scanned_by_11",
+          "value": "bram.vandeurzen@uhasselt.be",
+          "field_format": "EMAIL",
+          "element": "text"
+        },
+        "Scanned on": {
+          "field": "_snipeit_scanned_on_12",
+          "value": "2023-03-29T13:57:21",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "FIN-Cost center": {
+          "field": "_snipeit_fin_cost_center_9",
+          "value": "MAXVRINFRA",
+          "field_format": "ANY",
+          "element": "text"
+        }
+      },
+      "available_actions": {
+        "checkout": true,
+        "checkin": true,
+        "clone": true,
+        "restore": false,
+        "update": true,
+        "audit": true,
+        "delete": true
+      }
+    },
+    {
+      "id": 16,
+      "name": "Hypersen 3D ToF LiDAR (5m) HPS-3D640-L (LAN Interface)",
+      "asset_tag": "EDM-22-11",
+      "serial": "SL01M2100584",
+      "model": {
+        "id": 10,
+        "name": "LIDAR"
+      },
+      "byod": false,
+      "requestable": true,
+      "model_number": null,
+      "eol": null,
+      "asset_eol_date": null,
+      "status_label": {
+        "id": 2,
+        "name": "Ready to Deploy",
+        "status_type": "deployable",
+        "status_meta": "deployable"
+      },
+      "category": {
+        "id": 10,
+        "name": "LIDAR"
+      },
+      "manufacturer": null,
+      "supplier": null,
+      "notes": null,
+      "order_number": null,
+      "company": null,
+      "location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "rtd_location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "image": null,
+      "qr": null,
+      "alt_barcode": "http://192.168.100.212/uploads/barcodes/-edm-22-11.png",
+      "assigned_to": null,
+      "warranty_months": null,
+      "warranty_expires": null,
+      "created_by": null,
+      "created_at": {
+        "datetime": "2025-08-12 14:17:19",
+        "formatted": "2025-08-12 14:17"
+      },
+      "updated_at": {
+        "datetime": "2025-08-14 15:45:02",
+        "formatted": "2025-08-14 15:45"
+      },
+      "last_audit_date": null,
+      "next_audit_date": null,
+      "deleted_at": null,
+      "purchase_date": null,
+      "age": "",
+      "last_checkout": null,
+      "last_checkin": null,
+      "expected_checkin": null,
+      "purchase_cost": null,
+      "checkin_counter": 0,
+      "checkout_counter": 0,
+      "requests_counter": 0,
+      "user_can_checkout": true,
+      "book_value": null,
+      "custom_fields": {
+        "FIN-Invoice number": {
+          "field": "_snipeit_fin_invoice_number_10",
+          "value": "I/202205995",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "Scanned by": {
+          "field": "_snipeit_scanned_by_11",
+          "value": "bram.vandeurzen@uhasselt.be",
+          "field_format": "EMAIL",
+          "element": "text"
+        },
+        "Scanned on": {
+          "field": "_snipeit_scanned_on_12",
+          "value": "2023-03-29T14:14:40",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "FIN-Cost center": {
+          "field": "_snipeit_fin_cost_center_9",
+          "value": "MAXVRINFRA",
+          "field_format": "ANY",
+          "element": "text"
+        }
+      },
+      "available_actions": {
+        "checkout": true,
+        "checkin": true,
+        "clone": true,
+        "restore": false,
+        "update": true,
+        "audit": true,
+        "delete": true
+      }
+    },
+    {
+      "id": 17,
+      "name": "Varjo Aero headset",
+      "asset_tag": "EDM-22-12",
+      "serial": "Legacy",
+      "model": {
+        "id": 5,
+        "name": "VR"
+      },
+      "byod": false,
+      "requestable": true,
+      "model_number": null,
+      "eol": null,
+      "asset_eol_date": null,
+      "status_label": {
+        "id": 2,
+        "name": "Ready to Deploy",
+        "status_type": "deployable",
+        "status_meta": "deployable"
+      },
+      "category": {
+        "id": 5,
+        "name": "VR"
+      },
+      "manufacturer": null,
+      "supplier": null,
+      "notes": null,
+      "order_number": null,
+      "company": null,
+      "location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "rtd_location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "image": null,
+      "qr": null,
+      "alt_barcode": "http://192.168.100.212/uploads/barcodes/-edm-22-12.png",
+      "assigned_to": null,
+      "warranty_months": null,
+      "warranty_expires": null,
+      "created_by": null,
+      "created_at": {
+        "datetime": "2025-08-12 14:17:19",
+        "formatted": "2025-08-12 14:17"
+      },
+      "updated_at": {
+        "datetime": "2025-08-14 15:45:02",
+        "formatted": "2025-08-14 15:45"
+      },
+      "last_audit_date": null,
+      "next_audit_date": null,
+      "deleted_at": null,
+      "purchase_date": null,
+      "age": "",
+      "last_checkout": null,
+      "last_checkin": null,
+      "expected_checkin": null,
+      "purchase_cost": null,
+      "checkin_counter": 0,
+      "checkout_counter": 0,
+      "requests_counter": 0,
+      "user_can_checkout": true,
+      "book_value": null,
+      "custom_fields": {
+        "VR": {
+          "field": "_snipeit_vr_2",
+          "value": "",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "Scanned by": {
+          "field": "_snipeit_scanned_by_11",
+          "value": "bram.vandeurzen@uhasselt.be",
+          "field_format": "EMAIL",
+          "element": "text"
+        },
+        "FIN-Invoice number": {
+          "field": "_snipeit_fin_invoice_number_10",
+          "value": "I/202206132",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "FIN-Cost center": {
+          "field": "_snipeit_fin_cost_center_9",
+          "value": "MAXVRINFRA",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "Specs": {
+          "field": "_snipeit_specs_8",
+          "value": "",
+          "field_format": "URL",
+          "element": "text"
+        },
+        "Tracking": {
+          "field": "_snipeit_tracking_7",
+          "value": "",
+          "field_format": "ANY",
+          "element": "listbox"
+        },
+        "Tethered": {
+          "field": "_snipeit_tethered_6",
+          "value": "",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "Stand-alone": {
+          "field": "_snipeit_stand_alone_5",
+          "value": "",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "Passthrough AR": {
+          "field": "_snipeit_passthrough_ar_4",
+          "value": "",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "AR": {
+          "field": "_snipeit_ar_3",
+          "value": "",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "Scanned on": {
+          "field": "_snipeit_scanned_on_12",
+          "value": "2023-03-29T13:57:50",
+          "field_format": "ANY",
+          "element": "text"
+        }
+      },
+      "available_actions": {
+        "checkout": true,
+        "checkin": true,
+        "clone": true,
+        "restore": false,
+        "update": true,
+        "audit": true,
+        "delete": true
+      }
+    },
+    {
+      "id": 18,
+      "name": "Microsoft Hololens 2 (NJX-00014)",
+      "asset_tag": "EDM-22-13",
+      "serial": "Legacy",
+      "model": {
+        "id": 11,
+        "name": "AR"
+      },
+      "byod": false,
+      "requestable": true,
+      "model_number": null,
+      "eol": null,
+      "asset_eol_date": null,
+      "status_label": {
+        "id": 2,
+        "name": "Ready to Deploy",
+        "status_type": "deployable",
+        "status_meta": "deployable"
+      },
+      "category": {
+        "id": 11,
+        "name": "AR"
+      },
+      "manufacturer": null,
+      "supplier": null,
+      "notes": null,
+      "order_number": null,
+      "company": null,
+      "location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "rtd_location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "image": null,
+      "qr": null,
+      "alt_barcode": "http://192.168.100.212/uploads/barcodes/-edm-22-13.png",
+      "assigned_to": null,
+      "warranty_months": null,
+      "warranty_expires": null,
+      "created_by": null,
+      "created_at": {
+        "datetime": "2025-08-12 14:17:19",
+        "formatted": "2025-08-12 14:17"
+      },
+      "updated_at": {
+        "datetime": "2025-08-14 15:45:02",
+        "formatted": "2025-08-14 15:45"
+      },
+      "last_audit_date": null,
+      "next_audit_date": null,
+      "deleted_at": null,
+      "purchase_date": null,
+      "age": "",
+      "last_checkout": null,
+      "last_checkin": null,
+      "expected_checkin": null,
+      "purchase_cost": null,
+      "checkin_counter": 0,
+      "checkout_counter": 0,
+      "requests_counter": 0,
+      "user_can_checkout": true,
+      "book_value": null,
+      "custom_fields": {
+        "VR": {
+          "field": "_snipeit_vr_2",
+          "value": "",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "Scanned by": {
+          "field": "_snipeit_scanned_by_11",
+          "value": "bram.vandeurzen@uhasselt.be",
+          "field_format": "EMAIL",
+          "element": "text"
+        },
+        "FIN-Invoice number": {
+          "field": "_snipeit_fin_invoice_number_10",
+          "value": "",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "FIN-Cost center": {
+          "field": "_snipeit_fin_cost_center_9",
+          "value": "",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "Specs": {
+          "field": "_snipeit_specs_8",
+          "value": "",
+          "field_format": "URL",
+          "element": "text"
+        },
+        "Tracking": {
+          "field": "_snipeit_tracking_7",
+          "value": "",
+          "field_format": "ANY",
+          "element": "listbox"
+        },
+        "Tethered": {
+          "field": "_snipeit_tethered_6",
+          "value": "",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "Stand-alone": {
+          "field": "_snipeit_stand_alone_5",
+          "value": "",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "Passthrough AR": {
+          "field": "_snipeit_passthrough_ar_4",
+          "value": "",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "AR": {
+          "field": "_snipeit_ar_3",
+          "value": "",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "Scanned on": {
+          "field": "_snipeit_scanned_on_12",
+          "value": "2023-03-29T13:59:02",
+          "field_format": "ANY",
+          "element": "text"
+        }
+      },
+      "available_actions": {
+        "checkout": true,
+        "checkin": true,
+        "clone": true,
+        "restore": false,
+        "update": true,
+        "audit": true,
+        "delete": true
+      }
+    },
+    {
+      "id": 19,
+      "name": "Pimax Vision 8K x",
+      "asset_tag": "EDM-22-14",
+      "serial": "Legacy",
+      "model": {
+        "id": 5,
+        "name": "VR"
+      },
+      "byod": false,
+      "requestable": true,
+      "model_number": null,
+      "eol": null,
+      "asset_eol_date": null,
+      "status_label": {
+        "id": 2,
+        "name": "Ready to Deploy",
+        "status_type": "deployable",
+        "status_meta": "deployable"
+      },
+      "category": {
+        "id": 5,
+        "name": "VR"
+      },
+      "manufacturer": null,
+      "supplier": null,
+      "notes": null,
+      "order_number": null,
+      "company": null,
+      "location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "rtd_location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "image": null,
+      "qr": null,
+      "alt_barcode": "http://192.168.100.212/uploads/barcodes/-edm-22-14.png",
+      "assigned_to": null,
+      "warranty_months": null,
+      "warranty_expires": null,
+      "created_by": null,
+      "created_at": {
+        "datetime": "2025-08-12 14:17:19",
+        "formatted": "2025-08-12 14:17"
+      },
+      "updated_at": {
+        "datetime": "2025-08-14 15:46:55",
+        "formatted": "2025-08-14 15:46"
+      },
+      "last_audit_date": null,
+      "next_audit_date": null,
+      "deleted_at": null,
+      "purchase_date": null,
+      "age": "",
+      "last_checkout": null,
+      "last_checkin": null,
+      "expected_checkin": null,
+      "purchase_cost": null,
+      "checkin_counter": 0,
+      "checkout_counter": 0,
+      "requests_counter": 1,
+      "user_can_checkout": true,
+      "book_value": null,
+      "custom_fields": {
+        "VR": {
+          "field": "_snipeit_vr_2",
+          "value": "",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "Scanned by": {
+          "field": "_snipeit_scanned_by_11",
+          "value": "bram.vandeurzen@uhasselt.be",
+          "field_format": "EMAIL",
+          "element": "text"
+        },
+        "FIN-Invoice number": {
+          "field": "_snipeit_fin_invoice_number_10",
+          "value": "I/202206134",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "FIN-Cost center": {
+          "field": "_snipeit_fin_cost_center_9",
+          "value": "MAXVRINFRA",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "Specs": {
+          "field": "_snipeit_specs_8",
+          "value": "",
+          "field_format": "URL",
+          "element": "text"
+        },
+        "Tracking": {
+          "field": "_snipeit_tracking_7",
+          "value": "",
+          "field_format": "ANY",
+          "element": "listbox"
+        },
+        "Tethered": {
+          "field": "_snipeit_tethered_6",
+          "value": "",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "Stand-alone": {
+          "field": "_snipeit_stand_alone_5",
+          "value": "",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "Passthrough AR": {
+          "field": "_snipeit_passthrough_ar_4",
+          "value": "",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "AR": {
+          "field": "_snipeit_ar_3",
+          "value": "",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "Scanned on": {
+          "field": "_snipeit_scanned_on_12",
+          "value": "2023-03-29T13:59:52",
+          "field_format": "ANY",
+          "element": "text"
+        }
+      },
+      "available_actions": {
+        "checkout": true,
+        "checkin": true,
+        "clone": true,
+        "restore": false,
+        "update": true,
+        "audit": true,
+        "delete": true
+      }
+    },
+    {
+      "id": 20,
+      "name": "Einscan HX - 3D scanner",
+      "asset_tag": "EDM-22-15",
+      "serial": "Legacy",
+      "model": {
+        "id": 12,
+        "name": "3D scanner"
+      },
+      "byod": false,
+      "requestable": true,
+      "model_number": null,
+      "eol": null,
+      "asset_eol_date": null,
+      "status_label": {
+        "id": 2,
+        "name": "Ready to Deploy",
+        "status_type": "deployable",
+        "status_meta": "deployable"
+      },
+      "category": {
+        "id": 12,
+        "name": "3D scanner"
+      },
+      "manufacturer": null,
+      "supplier": null,
+      "notes": null,
+      "order_number": null,
+      "company": null,
+      "location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "rtd_location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "image": null,
+      "qr": null,
+      "alt_barcode": "http://192.168.100.212/uploads/barcodes/-edm-22-15.png",
+      "assigned_to": null,
+      "warranty_months": null,
+      "warranty_expires": null,
+      "created_by": null,
+      "created_at": {
+        "datetime": "2025-08-12 14:17:19",
+        "formatted": "2025-08-12 14:17"
+      },
+      "updated_at": {
+        "datetime": "2025-08-14 15:45:02",
+        "formatted": "2025-08-14 15:45"
+      },
+      "last_audit_date": null,
+      "next_audit_date": null,
+      "deleted_at": null,
+      "purchase_date": null,
+      "age": "",
+      "last_checkout": null,
+      "last_checkin": null,
+      "expected_checkin": null,
+      "purchase_cost": null,
+      "checkin_counter": 0,
+      "checkout_counter": 0,
+      "requests_counter": 0,
+      "user_can_checkout": true,
+      "book_value": null,
+      "custom_fields": {
+        "FIN-Invoice number": {
+          "field": "_snipeit_fin_invoice_number_10",
+          "value": "I/202212164",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "Scanned by": {
+          "field": "_snipeit_scanned_by_11",
+          "value": "bram.vandeurzen@uhasselt.be",
+          "field_format": "EMAIL",
+          "element": "text"
+        },
+        "Scanned on": {
+          "field": "_snipeit_scanned_on_12",
+          "value": "2023-03-29T14:00:18",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "FIN-Cost center": {
+          "field": "_snipeit_fin_cost_center_9",
+          "value": "MAXVRINFRA",
+          "field_format": "ANY",
+          "element": "text"
+        }
+      },
+      "available_actions": {
+        "checkout": true,
+        "checkin": true,
+        "clone": true,
+        "restore": false,
+        "update": true,
+        "audit": true,
+        "delete": true
+      }
+    },
+    {
+      "id": 22,
+      "name": "Valve Index Headset + Controllers",
+      "asset_tag": "EDM-22-17",
+      "serial": "Legacy",
+      "model": {
+        "id": 5,
+        "name": "VR"
+      },
+      "byod": false,
+      "requestable": true,
+      "model_number": null,
+      "eol": null,
+      "asset_eol_date": null,
+      "status_label": {
+        "id": 2,
+        "name": "Ready to Deploy",
+        "status_type": "deployable",
+        "status_meta": "deployable"
+      },
+      "category": {
+        "id": 5,
+        "name": "VR"
+      },
+      "manufacturer": null,
+      "supplier": null,
+      "notes": null,
+      "order_number": null,
+      "company": null,
+      "location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "rtd_location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "image": null,
+      "qr": null,
+      "alt_barcode": "http://192.168.100.212/uploads/barcodes/-edm-22-17.png",
+      "assigned_to": null,
+      "warranty_months": null,
+      "warranty_expires": null,
+      "created_by": null,
+      "created_at": {
+        "datetime": "2025-08-12 14:17:19",
+        "formatted": "2025-08-12 14:17"
+      },
+      "updated_at": {
+        "datetime": "2025-08-14 15:45:02",
+        "formatted": "2025-08-14 15:45"
+      },
+      "last_audit_date": null,
+      "next_audit_date": null,
+      "deleted_at": null,
+      "purchase_date": null,
+      "age": "",
+      "last_checkout": null,
+      "last_checkin": null,
+      "expected_checkin": null,
+      "purchase_cost": null,
+      "checkin_counter": 0,
+      "checkout_counter": 0,
+      "requests_counter": 0,
+      "user_can_checkout": true,
+      "book_value": null,
+      "custom_fields": {
+        "VR": {
+          "field": "_snipeit_vr_2",
+          "value": "",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "Scanned by": {
+          "field": "_snipeit_scanned_by_11",
+          "value": "bram.vandeurzen@uhasselt.be",
+          "field_format": "EMAIL",
+          "element": "text"
+        },
+        "FIN-Invoice number": {
+          "field": "_snipeit_fin_invoice_number_10",
+          "value": "I/202214779",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "FIN-Cost center": {
+          "field": "_snipeit_fin_cost_center_9",
+          "value": "MAXVRINFRA",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "Specs": {
+          "field": "_snipeit_specs_8",
+          "value": "",
+          "field_format": "URL",
+          "element": "text"
+        },
+        "Tracking": {
+          "field": "_snipeit_tracking_7",
+          "value": "",
+          "field_format": "ANY",
+          "element": "listbox"
+        },
+        "Tethered": {
+          "field": "_snipeit_tethered_6",
+          "value": "",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "Stand-alone": {
+          "field": "_snipeit_stand_alone_5",
+          "value": "",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "Passthrough AR": {
+          "field": "_snipeit_passthrough_ar_4",
+          "value": "",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "AR": {
+          "field": "_snipeit_ar_3",
+          "value": "",
+          "field_format": "ANY",
+          "element": "radio"
+        },
+        "Scanned on": {
+          "field": "_snipeit_scanned_on_12",
+          "value": "2023-03-29T14:01:43",
+          "field_format": "ANY",
+          "element": "text"
+        }
+      },
+      "available_actions": {
+        "checkout": true,
+        "checkin": true,
+        "clone": true,
+        "restore": false,
+        "update": true,
+        "audit": true,
+        "delete": true
+      }
+    },
+    {
+      "id": 27,
+      "name": "Sense Glove Nova",
+      "asset_tag": "EDM-22-22",
+      "serial": "Legacy",
+      "model": {
+        "id": 8,
+        "name": "Haptic Device"
+      },
+      "byod": false,
+      "requestable": true,
+      "model_number": null,
+      "eol": null,
+      "asset_eol_date": null,
+      "status_label": {
+        "id": 2,
+        "name": "Ready to Deploy",
+        "status_type": "deployable",
+        "status_meta": "deployable"
+      },
+      "category": {
+        "id": 8,
+        "name": "Haptic Device"
+      },
+      "manufacturer": null,
+      "supplier": null,
+      "notes": null,
+      "order_number": null,
+      "company": null,
+      "location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "rtd_location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "image": null,
+      "qr": null,
+      "alt_barcode": "http://192.168.100.212/uploads/barcodes/-edm-22-22.png",
+      "assigned_to": null,
+      "warranty_months": null,
+      "warranty_expires": null,
+      "created_by": null,
+      "created_at": {
+        "datetime": "2025-08-12 14:17:19",
+        "formatted": "2025-08-12 14:17"
+      },
+      "updated_at": {
+        "datetime": "2025-08-14 15:45:02",
+        "formatted": "2025-08-14 15:45"
+      },
+      "last_audit_date": null,
+      "next_audit_date": null,
+      "deleted_at": null,
+      "purchase_date": null,
+      "age": "",
+      "last_checkout": null,
+      "last_checkin": null,
+      "expected_checkin": null,
+      "purchase_cost": null,
+      "checkin_counter": 0,
+      "checkout_counter": 0,
+      "requests_counter": 0,
+      "user_can_checkout": true,
+      "book_value": null,
+      "custom_fields": {
+        "FIN-Invoice number": {
+          "field": "_snipeit_fin_invoice_number_10",
+          "value": "I/202219670",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "Scanned by": {
+          "field": "_snipeit_scanned_by_11",
+          "value": "bram.vandeurzen@uhasselt.be",
+          "field_format": "EMAIL",
+          "element": "text"
+        },
+        "Scanned on": {
+          "field": "_snipeit_scanned_on_12",
+          "value": "2023-03-29T14:23:47",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "FIN-Cost center": {
+          "field": "_snipeit_fin_cost_center_9",
+          "value": "MAXVRINFRA",
+          "field_format": "ANY",
+          "element": "text"
+        }
+      },
+      "available_actions": {
+        "checkout": true,
+        "checkin": true,
+        "clone": true,
+        "restore": false,
+        "update": true,
+        "audit": true,
+        "delete": true
+      }
+    },
+    {
+      "id": 32,
+      "name": "USB3.1 industrial 5.0MP Color Camera",
+      "asset_tag": "EDM-22-27",
+      "serial": "CICA2232001",
+      "model": {
+        "id": 13,
+        "name": "Video"
+      },
+      "byod": false,
+      "requestable": true,
+      "model_number": null,
+      "eol": null,
+      "asset_eol_date": null,
+      "status_label": {
+        "id": 2,
+        "name": "Ready to Deploy",
+        "status_type": "deployable",
+        "status_meta": "deployable"
+      },
+      "category": {
+        "id": 13,
+        "name": "Video"
+      },
+      "manufacturer": null,
+      "supplier": null,
+      "notes": null,
+      "order_number": null,
+      "company": null,
+      "location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "rtd_location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "image": null,
+      "qr": null,
+      "alt_barcode": "http://192.168.100.212/uploads/barcodes/-edm-22-27.png",
+      "assigned_to": null,
+      "warranty_months": null,
+      "warranty_expires": null,
+      "created_by": null,
+      "created_at": {
+        "datetime": "2025-08-12 14:17:19",
+        "formatted": "2025-08-12 14:17"
+      },
+      "updated_at": {
+        "datetime": "2025-08-14 15:45:02",
+        "formatted": "2025-08-14 15:45"
+      },
+      "last_audit_date": null,
+      "next_audit_date": null,
+      "deleted_at": null,
+      "purchase_date": null,
+      "age": "",
+      "last_checkout": null,
+      "last_checkin": null,
+      "expected_checkin": null,
+      "purchase_cost": null,
+      "checkin_counter": 0,
+      "checkout_counter": 0,
+      "requests_counter": 0,
+      "user_can_checkout": true,
+      "book_value": null,
+      "custom_fields": {
+        "FIN-Invoice number": {
+          "field": "_snipeit_fin_invoice_number_10",
+          "value": "",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "Scanned by": {
+          "field": "_snipeit_scanned_by_11",
+          "value": "bram.vandeurzen@uhasselt.be",
+          "field_format": "EMAIL",
+          "element": "text"
+        },
+        "Scanned on": {
+          "field": "_snipeit_scanned_on_12",
+          "value": "2023-03-29T14:37:11",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "FIN-Cost center": {
+          "field": "_snipeit_fin_cost_center_9",
+          "value": "",
+          "field_format": "ANY",
+          "element": "text"
+        }
+      },
+      "available_actions": {
+        "checkout": true,
+        "checkin": true,
+        "clone": true,
+        "restore": false,
+        "update": true,
+        "audit": true,
+        "delete": true
+      }
+    },
+    {
+      "id": 43,
+      "name": "Leica RTC360 laserscanner",
+      "asset_tag": "EDM-22-38",
+      "serial": "Legacy",
+      "model": {
+        "id": 16,
+        "name": "Laserscanner"
+      },
+      "byod": false,
+      "requestable": true,
+      "model_number": null,
+      "eol": null,
+      "asset_eol_date": null,
+      "status_label": {
+        "id": 2,
+        "name": "Ready to Deploy",
+        "status_type": "deployable",
+        "status_meta": "deployable"
+      },
+      "category": {
+        "id": 16,
+        "name": "Laserscanner"
+      },
+      "manufacturer": null,
+      "supplier": null,
+      "notes": null,
+      "order_number": null,
+      "company": null,
+      "location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "rtd_location": {
+        "id": 2,
+        "name": "MaxVR"
+      },
+      "image": null,
+      "qr": null,
+      "alt_barcode": "http://192.168.100.212/uploads/barcodes/-edm-22-38.png",
+      "assigned_to": null,
+      "warranty_months": null,
+      "warranty_expires": null,
+      "created_by": null,
+      "created_at": {
+        "datetime": "2025-08-12 14:17:19",
+        "formatted": "2025-08-12 14:17"
+      },
+      "updated_at": {
+        "datetime": "2025-08-14 15:45:02",
+        "formatted": "2025-08-14 15:45"
+      },
+      "last_audit_date": null,
+      "next_audit_date": null,
+      "deleted_at": null,
+      "purchase_date": null,
+      "age": "",
+      "last_checkout": null,
+      "last_checkin": null,
+      "expected_checkin": null,
+      "purchase_cost": null,
+      "checkin_counter": 0,
+      "checkout_counter": 0,
+      "requests_counter": 0,
+      "user_can_checkout": true,
+      "book_value": null,
+      "custom_fields": {
+        "FIN-Invoice number": {
+          "field": "_snipeit_fin_invoice_number_10",
+          "value": "I/202240366",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "Scanned by": {
+          "field": "_snipeit_scanned_by_11",
+          "value": "bram.vandeurzen@uhasselt.be",
+          "field_format": "EMAIL",
+          "element": "text"
+        },
+        "Scanned on": {
+          "field": "_snipeit_scanned_on_12",
+          "value": "2023-03-29T15:36:00",
+          "field_format": "ANY",
+          "element": "text"
+        },
+        "FIN-Cost center": {
+          "field": "_snipeit_fin_cost_center_9",
+          "value": "MAXVRINFRA",
+          "field_format": "ANY",
+          "element": "text"
+        }
+      },
+      "available_actions": {
+        "checkout": true,
+        "checkin": true,
+        "clone": true,
+        "restore": false,
+        "update": true,
+        "audit": true,
+        "delete": true
+      }
+    }
+  ]
+}
