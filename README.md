@@ -107,28 +107,6 @@ The frontend is configured to connect to the backend at `http://localhost:5000`.
 - Vue.js components are in `frontend/inventory-list/src/components/`
 - Routing is configured in `frontend/inventory-list/src/router/`
 
-## Building for Production
-
-### Backend
-
-For production deployment, use a WSGI server like Gunicorn:
-
-```bash
-pip install gunicorn
-gunicorn -w 4 app:app
-```
-
-### Frontend
-
-To build the frontend for production:
-
-```bash
-cd frontend/inventory-list
-npm run build
-```
-
-The built files will be in the `dist/` directory.
-
 ## Troubleshooting
 
 ### Common Issues
@@ -150,13 +128,7 @@ The built files will be in the `dist/` directory.
 - Backend logs appear in the terminal where you started the Flask server
 - Frontend logs appear in the browser's developer console
 
-## Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test both backend and frontend
-5. Submit a pull request
 
 ## License
 
